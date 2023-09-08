@@ -12,6 +12,8 @@ class Solution {
         //     }
         // }
         // answer = Integer.parseInt(odd)+Integer.parseInt(even);
+        
+        // 0.03ms
         int even = 0;
         int odd = 0;
 
